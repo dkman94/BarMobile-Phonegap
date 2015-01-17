@@ -1,0 +1,26 @@
+2015-01-17 01:59:23.730 Hello World[4873:56683] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/deepakkumar/Library/Developer/CoreSimulator/Devices/0622923E-A244-4060-8219-D35271F62E65/data/Containers/Data/Application/C2CDF9C7-C567-4BFF-8E0C-B33C5CAF9E20/Library/Cookies/Cookies.binarycookies
+2015-01-17 01:59:23.845 Hello World[4873:56683] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-17 01:59:23.845 Hello World[4873:56683] Multi-tasking -> Device: YES, App: YES
+2015-01-17 01:59:23.854 Hello World[4873:56683] Unlimited access to network resources
+2015-01-17 01:59:23.859 Hello World[4873:56683] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-17 01:59:24.348 Hello World[4873:56683] Resetting plugins due to page load.
+2015-01-17 01:59:24.465 Hello World[4873:56683] Finished load of: file:///Users/deepakkumar/Library/Developer/CoreSimulator/Devices/0622923E-A244-4060-8219-D35271F62E65/data/Containers/Bundle/Application/8F186D0E-1D23-4DB2-86AF-0B5CFF7DF89B/Hello%20World.app/www/index.html
+2015-01-17 02:31:08.068 Hello World[5512:66913] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/deepakkumar/Library/Developer/CoreSimulator/Devices/0622923E-A244-4060-8219-D35271F62E65/data/Containers/Data/Application/B1AEF5FD-020F-45EB-8E67-F4F85596CFCF/Library/Cookies/Cookies.binarycookies
+2015-01-17 02:31:08.150 Hello World[5512:66913] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-17 02:31:08.151 Hello World[5512:66913] Multi-tasking -> Device: YES, App: YES
+2015-01-17 02:31:08.155 Hello World[5512:66913] Unlimited access to network resources
+2015-01-17 02:31:08.158 Hello World[5512:66913] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-17 02:31:08.419 Hello World[5512:66913] Resetting plugins due to page load.
+2015-01-17 02:31:08.682 Hello World[5512:66913] Finished load of: file:///Users/deepakkumar/Library/Developer/CoreSimulator/Devices/0622923E-A244-4060-8219-D35271F62E65/data/Containers/Bundle/Application/11944C19-8966-4386-81D3-439268D2F1E5/Hello%20World.app/www/index.html#/
